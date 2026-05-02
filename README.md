@@ -1,6 +1,7 @@
 # COSMES: A Comprehensive Framework for Reliable Spatial Intelligence in Multimodal Large Language Models
 
 Official implementation of COSMES, an inference-time framework designed to improve geometric reliability without modifying backbone weights.
+<img width="1779" height="884" alt="cosmes_pipeline" src="https://github.com/user-attachments/assets/135a16e9-7152-478f-991b-409ed70194b8" />
 
 ## Overview
 
